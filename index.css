@@ -1,0 +1,47 @@
+#header {
+  display: flex;
+  align-items: center;
+  background-color: #2d2d2d;
+  border-radius: 10px;
+  border: 2px solid rgba(164, 176, 190, .8);
+  padding: 8px;
+  color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 3%;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+#h-top {
+  border-right: 4px solid #ffffff;
+  padding-right: 8px;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+.h-tab {
+  color: #ffffff;
+  margin-left: 12px;
+}
+
+html {
+  background-image: url("./img/dirt.png");
+  background-size: 5%;
+}
+
+.card {
+  background-color: #2d2d2d;
+  border-radius: 10px;
+  border: 2px solid rgba(164, 176, 190, .8);
+  padding: 8px;
+  color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
